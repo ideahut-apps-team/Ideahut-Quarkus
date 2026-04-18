@@ -1,0 +1,17 @@
+{
+    "MD033": {
+      "allowed_elements": [
+        "nobr",
+        "sup",
+        "div",
+        "img"
+      ]
+    },
+    "MD013": {
+        "line_length": 5000,
+        "tables": false
+    },
+    "no-duplicate-heading": {
+      "siblings_only": true
+    }
+  }
