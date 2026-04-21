@@ -1,6 +1,6 @@
 # Ideahut Quarkus <img height="32" src="./assets/ideahut.png" alt=""> <img height="32" src="./assets/quarkus.png" alt="">
 
-## Dokumentasi
+### Dokumentasi
 
 - [Instalasi](./00-installation.md)
 - [Launcher](./01-launcher.md)
@@ -28,6 +28,13 @@
 - [Error](./23-error.md)
 
 
-## Template
+##
 
-- [Quarkus 3x](https://github.com/thomson470/ideahut-quarkus-3x-template)
+### Template
+
+- [Quarkus 3x](https://github.com/ideahut-apps-team/Template-Quarkus-3x)
+
+##
+
+### Patch
+- [Patch 3x](https://github.com/ideahut-apps-team/Patch-Quarkus-3x)
